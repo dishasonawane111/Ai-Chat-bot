@@ -91,6 +91,4 @@ This project is licensed under the Apache-2.0 license.
 
 ## Contact
 For any queries, contact:
-- **Adhiraj Jagtap** - [adhirajjagtap12@gmail.com](mailto:adhirajjagtap12@gmail.com)
-- **Parth Takate** - [parthtakate51@gmail.com](mailto:parthtakate51@gmail.com)
-- **Indra Kale** - [indrakale4111@gmail.com](mailto:indrakale4111@gmail.com)
+- **Disha Sonwanw** - [dd.sonawane111@gmail.com](mailto:dd.sonawane111@gmail.com)
